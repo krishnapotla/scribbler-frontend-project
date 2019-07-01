@@ -142,6 +142,10 @@ src: url(JosefinSans-ThinItalic.ttf);
   font-weight: bold;
   font-size: 15px;
 }
+@font-face {
+  font-family: create-post-title-font;
+  src: url(Abel-Regular.ttf);
+}
 .pseudolink {
   color: blue;
   cursor: pointer;
