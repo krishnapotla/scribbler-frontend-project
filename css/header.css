@@ -62,6 +62,7 @@ src: url(JosefinSans-ThinItalic.ttf);
   display: inline-block;
   font-size: 16px;
   margin: 5px;
+  cursor: pointer;
 }
 
 .modal-button {
@@ -75,6 +76,7 @@ src: url(JosefinSans-ThinItalic.ttf);
   font-size: 16px;
   margin-top: 5px;
   width: 100%;
+  cursor: pointer;
 }
 
 /* The Modal (background) */

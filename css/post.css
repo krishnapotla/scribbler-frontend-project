@@ -17,7 +17,7 @@
     padding: 0px 70px 0px 70px;
 }
 .blogButton{
-    background-color: blueviolet;
+    background-color:#EF3B65;
     border: none;
     color: white;
     padding: 10px 30px;
@@ -58,5 +58,14 @@
 }
 .commentStyle:last-child {
     margin-bottom:0;
+}
+.pseudolink {
+    color: blue;
+    cursor: pointer;
+}
+.new-member {
+    text-align: center;
+    font-family: create-post-title-font;
+    font-weight: bold;
 }
 /* Set a style for all the remaining elements like Like button, Edit button, Comment button and so on. */
